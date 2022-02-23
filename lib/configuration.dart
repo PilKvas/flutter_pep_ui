@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 
 Color primaryGreen = Color(0xff416d6d);
-Color lightGrey = Color(0xFFF5F5F5);
+Color lightGrey = Color(0xFFD6D6D6);
 List<BoxShadow> shadowList = [
   BoxShadow(color: lightGrey, blurRadius: 100, offset: Offset(0, 10))
 ];
